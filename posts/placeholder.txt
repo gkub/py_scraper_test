@@ -1,0 +1,2 @@
+// this file is only here to ensure that /posts will be included in the git repo
+// git, pls detect empty directories. come on bruh
